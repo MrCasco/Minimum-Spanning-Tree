@@ -184,5 +184,5 @@ public:
 
 int main() {
   MST mst;
-  std::cout << mst.prim("P3Edges0") << '\n';
+  std::cout << mst.prim("Clase2") << '\n';
 }
