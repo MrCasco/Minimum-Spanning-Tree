@@ -2,5 +2,5 @@
 
 int main(){
   MST miMST;
-  std::cout << miMST.prim("servada.txt") << '\n';
+  std::cout << miMST.kruskalDFS("P3Edges0.txt") << '\n';
 }
